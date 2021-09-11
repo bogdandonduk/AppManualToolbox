@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="bogdandonduk.appmanualtoolboxandroidlib">
+    package="bogdandonduk.appmanualtoolbox">
+
+    <application>
+        <activity
+            android:name=".AppManualActivity"
+            android:theme="@style/ThemeSlidr" />
+
+        <activity
+            android:name=".AppManualActivityWelcome" />
+    </application>
 
 </manifest>
