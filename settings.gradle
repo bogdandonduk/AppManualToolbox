@@ -1,0 +1,3 @@
+rootProject.name = "AppManualToolbox"
+include ':app'
+include ':AppManualToolboxAndroidLib'
