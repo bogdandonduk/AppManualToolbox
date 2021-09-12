@@ -40,7 +40,7 @@ allprojects {
 val builder = AppManualToolbox.buildAppManual()
 
 // build your activity
-vabuilder
+val builder
 	.setBackgroundColor { oldColor: Int -> // this is a feature of the enhanced builder pattern, 
 	// it provides previous values as lambda arguments for you to operate on.
 	// just return a new value from this lambda to set it
