@@ -72,7 +72,7 @@ vabuilder
 		)
 	}
 
-// then pass the model built by builder to this static method
+// then pass the model built by the builder to this static method
 AppManualToolbox.openManualActivity(context, builder.build())
 ```
 
