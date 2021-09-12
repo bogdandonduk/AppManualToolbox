@@ -4,6 +4,8 @@
   Android library based on the enhanced builder pattern that simplifies creation of a typical app guide or app manual activities comprised of ViewPager2 with dots indicator. 
   They can be built and opened like regular activities and as welcome screens. In the last use case, they manage first launch setting on their own.
   
+  ![Example](https://github.com/bogdandonduk/AppManualToolbox/blob/master/device-2021-09-12-205834.png)
+  
 ## Include in your project  
 **Gradle dependency**  
   
