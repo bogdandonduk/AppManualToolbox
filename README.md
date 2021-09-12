@@ -1,7 +1,7 @@
 
 # AppManualToolbox  
   
-  A library based on the enhanced builder pattern that simplifies creation of a typical app guide or app manual activities comprised of ViewPager2 with dots indicator. 
+  Android library based on the enhanced builder pattern that simplifies creation of a typical app guide or app manual activities comprised of ViewPager2 with dots indicator. 
   They can be built and opened like regular activities and as welcome screens. In the last use case, they manage first launch setting on their own.
   
 ## Include in your project  
