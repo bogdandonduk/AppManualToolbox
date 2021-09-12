@@ -71,6 +71,9 @@ vabuilder
 			backgroundColor = Color.CYAN
 		)
 	}
+	.setIsSlidable { oldValue: Boolean ->
+		true // this will also add swipe-to-dismiss functionality
+	}
 
 // then pass the model built by the builder to this static method
 AppManualToolbox.openManualActivity(context, builder.build())
